@@ -1,0 +1,9 @@
+________XYZ AIRLINES_______
+_________Ticket____________
+____________________________
+Coustomer Id:1
+Name        :Omkar
+Gender    :male
+	Description:
+Destination		Australia
+Flight Cost:		16000
